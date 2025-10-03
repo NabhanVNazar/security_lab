@@ -1,0 +1,3 @@
+1. Learn how to design and implement RESTful APIs for backend systems.
+2. Gain practical experience with database management using NoSQL.
+3. Improve debugging, testing, and deployment skills for backend development.
